@@ -1,0 +1,11 @@
+{
+    "presets": [
+      ["@babel/preset-env", {
+        "targets": {
+        //   "chrome": "41"  // V8 4.8.0 corresponds to Chrome 41
+        "node": "15.8.0"
+        }
+      }]
+    ]
+  }
+  
